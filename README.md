@@ -7,18 +7,25 @@ Let's chat with PubMed and Medical Sources using PhiData!
 
 
 ## Goals 
-
+- [ ] Create a simple chat Assistant using PhiData
+- [ ] Create a simple search engine with PubMed
+- [ ] Create a simple interface for chat with FAERs and Clinical Trials
 
 ## Functionalities (planned)
-- [x] Search PubMed using eutils (topic, author, abstract, keywords)
-- [x] Caching PubMed results
-- [x] Summarization 
-- [x] Q&A (RAG)
-- [x] History (saved searches)
+- [ ] Search PubMed using eutils (topic, author, abstract, keywords)
+- [ ] Caching PubMed results
+- [ ] Summarization 
+- [ ] Q&A (RAG)
+- [ ] History (saved searches)
+- [ ] FAERs Database Query
+- [ ] Clinical Trials DB Query
+- [ ] Personalizied Queries
 
 
 ## To-Do
-
+- [ ] PubMed Search Module
+- [ ] User Interface Module
+- [ ] User History Module 
 
 ## References & Sources
 
