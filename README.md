@@ -6,6 +6,12 @@ Let's chat with PubMed & BioMedical/Clinical Data Sources using PhiData!
 - [x] Install the dependencies requirements.txt
 - [ ] Export OpenAI keys
 
+## Running the project
+bash
+```
+streamlit run src/app.py
+```
+
 ## Goals 
 - [ ] Create a chat Assistant using PhiData
 - [ ] Create a search engine with PubMed
